@@ -1,6 +1,6 @@
 # OrderTogether – Adatvédelmi Tájékoztató
 
-Utolsó frissítés: 2025. január
+Utolsó frissítés: 2026. március 15.
 
 ## 1. Adatkezelő
 Név: Konczol Boldizsár
